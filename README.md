@@ -8,6 +8,8 @@ Using JavaScript and D3, a URL was called to the U.S. Geological Survey (USGS) w
 
 The interactivity of the map was further developed in order to contain 3 different types of maps from Mapbox; Street View, Satellite Streets View and Dark View. 3 different layers were added; All Earthquakes for the past 7 days, Tectonic Plates lines, and Major Earthquakes for the past 7 days (4.5 or greater in magnitud). The tectonic plates lines were gathered from an open source repository of Github user fraxen.    
 
+![Screenshot](https://user-images.githubusercontent.com/85839235/134825880-c2b4e7e5-d993-4d9c-be90-4608cc210356.png)
+
 
 ### Resources ###
 JavasScript, D3 Library, Leaflet Library. 
